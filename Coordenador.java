@@ -12,7 +12,7 @@ public class Coordenador extends Funcionarios {
     }
 
 
-    //ArrayList< Qualquer_Tipo > nomeDoArrayList = new ArrayList< Qualquer_Tipo >();
+
 
     @Override
     public double aumenta_salario() {
